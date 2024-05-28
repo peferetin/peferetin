@@ -1,9 +1,8 @@
-## Hi there 👋
+ Hi there 👋
 
-<!--
-**peferetin/peferetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on my Final project.
 - 🌱 I’m currently learning at Beam Insitute of Technology, Berlin.
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 0176 **********
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...Hobbies
--->
+
