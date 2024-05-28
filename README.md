@@ -15,18 +15,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/waraisme/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/marla-geesing/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marla-geesing/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
