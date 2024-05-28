@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about React
 - 📫 How to reach me: 0176 **********
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...Hobboes
+- ⚡ Fun fact: ...Hobbies
 -->
