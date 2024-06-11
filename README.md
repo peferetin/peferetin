@@ -1,8 +1,8 @@
 
 
-I use standard HTML tags, like
 
-<!--- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="1000"> --->
+
+<!--- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="1000"> I use standard HTML tags, like --->
 <br><br>
 
 
