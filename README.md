@@ -24,7 +24,7 @@
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/waraisme/">
+  <a href="https://www.linkedin.com/in/paul-eferetin-26a63128b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
