@@ -17,12 +17,10 @@
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
 
-- 🔭 I’m currently working on my Final project.
-- 🌱 I’m currently learning at Beam Insitute of Technology, Berlin.
-- 👯 I’m looking to collaborate on with my colleagues
-- 🤔 I’m looking for help with JavaScript
+- 🔭 I’m done with my Final project.
+- 🌱 I currently graduated at Beam Insitute of Technology, Berlin as a web developer. 
 - 💬 Ask me about React
-- 📫 How to reach me: 0176 **********
+- 📫 How to reach me: 01525985786*
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...Hobbies
 
